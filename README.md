@@ -18,3 +18,5 @@
     - A partir desse momento os alunos devem se familiarizar com o uso do plugin Window Builder no Eclipse.
 - [x]  Lab 05
     - Swing III
+- [x]  Lab 06
+    - Revisão para a prova
