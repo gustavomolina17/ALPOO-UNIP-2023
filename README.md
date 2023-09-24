@@ -20,3 +20,7 @@
     - Swing III
 - [x]  Lab 06
     - Revisão para a prova
+- [x]  Lab 07
+    - Semana de avaliação NP1
+- [x]  Lab 08
+    - JDBC
