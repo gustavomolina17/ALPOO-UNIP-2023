@@ -33,4 +33,7 @@
 - [x] Instruções Exercício2:
     - Abrir o Material JDBC II e seguir as orientações dos slides 11 até o 34 para desenvolver uma interface gráfica integrada com
       banco de dados.
+  - [x]  Lab 09
+    - JDBC - Padrão de Projeto: Java DAO
+    - Para a realização desse exercício temos como pré requisito que o Exercício 2 da LAB 08 esteja feito.
       
