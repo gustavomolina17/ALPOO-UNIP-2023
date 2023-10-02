@@ -36,4 +36,6 @@
 - [x]  Lab 09
     - JDBC - Padrão de Projeto: Java DAO
     - Para a realização desse exercício temos como pré requisito que o Exercício 2 da LAB 08 esteja feito.
+    - É necessário seguir TODOS os passos do material, inclusive prestar atenção na etapa de criação da Base de Dados Cadastro que deve 
+      ser criada antes da interface. 
       
