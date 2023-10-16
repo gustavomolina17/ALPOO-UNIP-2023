@@ -26,4 +26,6 @@
     - JDBC
 - [x]  Lab 09
     - JDBC - Padrão de Projeto: Java DAO
+- [x]  Lab 10
+    - Crud Completo & MVC
     
