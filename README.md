@@ -28,4 +28,10 @@
     - JDBC - Padrão de Projeto: Java DAO
 - [x]  Lab 10
     - Crud Completo & MVC
+- [x]  Lab 11
+    - Introdução ao Desenvolvimento Web: JSP
+- [x]  Lab 12
+    - Revisão para a prova
+- [x]  Lab 13
+    - Semana de avaliação NP2
     
